@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bequest__MasterSimon
+  m_Shader: {fileID: 4800000, guid: 82f6d9547dc657f46b378eb9028eb03f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DIRT_BLEND_OVERLAY
+  - _HASHES_BLEND_MULTIPLY
+  - _LIGHTMAP_BLEND_OVERLAY
+  - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _ColorTex:
+        m_Texture: {fileID: 2800000, guid: 902b293c4de2f9448ba94b713c8d6b23, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DirtTex:
+        m_Texture: {fileID: 2800000, guid: 62d82f8ef1af9fd4d9ae91b4a576d194, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HashesTex:
+        m_Texture: {fileID: 2800000, guid: 0edd7d4e21d625b40a369a94aca26b73, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightmapTex:
+        m_Texture: {fileID: 2800000, guid: 312be3fbd96ddf14f9e74b8a08439877, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecMap:
+        m_Texture: {fileID: 2800000, guid: 75136ac6d617ac9409df1e5456d24506, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - PixelSnap: 0
+    - _BleedingDelta: 1
+    - _BleedingDeltaDirt: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailFoldout: 0
+    - _DetailNormalMapScale: 1
+    - _Dirt_Blend: 1
+    - _DstBlend: 0
+    - _EnableExternalAlpha: 0
+    - _FadeEnd: 50
+    - _FadeStart: 10
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Hashes_Blend: 0
+    - _InverseDirt: 0
+    - _InverseHashes: 0
+    - _InverseLightmap: 0
+    - _LightingFix: 1
+    - _Lightmap_Blend: 1
+    - _MaterialFoldout: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Opacity: 0.5
+    - _OpacityColor: 1
+    - _OpacityDirt: 0
+    - _OpacityHashes: 0
+    - _OpacityLightmap: 0
+    - _Parallax: 0.02
+    - _RampContrast: 51510
+    - _RampOffset: 0
+    - _RimContrast: 0
+    - _RimPower: 0
+    - _RimWidth: 0
+    - _Saturation: 1.36
+    - _ShowDefault: 1
+    - _SmoothnessTextureChannel: 1
+    - _SpecularHighlights: 1
+    - _SpecularLevel: 0
+    - _SpecularOpacity: 0
+    - _SrcBlend: 1
+    - _TileAmount: 20
+    - _TileAmountDirt: 4
+    - _TileX: 4
+    - _TileXDirt: 3.00072
+    - _TileY: 4
+    - _TileYDirt: 2
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _enableDistanceSquish: 0
+    - _highlightFactor: 0
+    m_Colors:
+    - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RampColor1: {r: 0, g: 0, b: 0, a: 1}
+    - _RampColor2: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimOffset: {r: 0, g: 0, b: 0, a: 1}
+    - _ScaleInfluence: {r: 0, g: 0, b: 1, a: 0}
+    - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
