@@ -1315,7 +1315,7 @@
     "m_Title": "Normals",
     "m_Position": {
         "x": -2307.0,
-        "y": 697.9999389648438
+        "y": 698.0
     }
 }
 
@@ -4324,8 +4324,8 @@
     "m_ObjectId": "858d0d9e21bf466489eeed917737ccda",
     "m_Title": "Detials",
     "m_Position": {
-        "x": -3953.999755859375,
-        "y": 100.00009155273438
+        "x": -3954.0,
+        "y": 100.0
     }
 }
 
@@ -6291,7 +6291,7 @@
     "m_ObjectId": "cd15bc7b5a674b6bb84ebec1fa439e8d",
     "m_Title": "MaterialDetail",
     "m_Position": {
-        "x": -4097.99951171875,
+        "x": -4098.0,
         "y": -517.0
     }
 }
@@ -6789,7 +6789,7 @@
     "m_ObjectId": "df2424241cc94aa4aa868abf9e94b3fe",
     "m_Title": "MainCol",
     "m_Position": {
-        "x": -4114.99951171875,
+        "x": -4115.0,
         "y": -1135.0
     }
 }
